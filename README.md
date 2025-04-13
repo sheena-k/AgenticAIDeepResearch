@@ -1,13 +1,13 @@
-### Implementation of an Agentic Deep Research System  
+## Implementation of an Agentic Deep Research System  
 
 
-#### Goal:   
+### Goal:   
 
 **To build a modular, end-to-end research agent framework that leverages multiple agents to conduct deep research and generate structured reports. The focus is on using Pydantic-ai for output structuring and validation, along with open-source tools for search and scraping.**  
 
 
 
-#### System Architecture:  
+### System Architecture:  
 
 **Query Analysis Agent:**
 
@@ -23,7 +23,7 @@
 
 
 
-#### Framework and Tools:  
+### Framework and Tools:  
 
     Pydantic-ai for schema enforcement, output structuring and strict validation across components.
     
@@ -32,7 +32,7 @@
     Web Tools for search and scraping- selenium.
 
 
-#### File structure    
+### File structure    
 
 Agents --->>
 
