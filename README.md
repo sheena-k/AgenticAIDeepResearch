@@ -32,7 +32,7 @@
     Web Tools for search and scraping- selenium.
 
 
-#### File structire    
+#### File structure    
 
 Agents --->>
 
