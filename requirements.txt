@@ -1,0 +1,8 @@
+requests
+pydantic==2.11.3
+tqdm
+selenium==4.31.0
+webdriver-manager
+undetected-chromedriver
+python-dotenv
+groq==0.22.0
