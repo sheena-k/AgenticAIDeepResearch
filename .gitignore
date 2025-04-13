@@ -1,0 +1,41 @@
+# Virtual environments
+venv/
+agent_venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs & temp files
+*.log
+*.tmp
+*.out
+*.pid
+*.swp
+*.swo
+
+# Environment variables & secrets
+.env
+*.key
+*.pem
+config.json  # If it contains sensitive data
+
+# IDE-specific files
+.vscode/
+.idea/
+*.code-workspace
+
+
+# Compiled files & libraries
+*.so
+*.dll
+*.dylib
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore unnecessary system files
+.DS_Store
+Thumbs.db
