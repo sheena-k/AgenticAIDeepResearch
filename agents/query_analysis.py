@@ -1,5 +1,5 @@
 import re
-from utils.llm import query_groq  # replace old import
+from utils.llm import query_groq  
 
 def analyze_query(topic: str):
     """
